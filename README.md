@@ -113,7 +113,7 @@ int main()
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2026-10-29 094650.png>)
+![alt text](OUTPUT.png)
 
 ## RESULT
 The implementation of Vigenere Cipher substitution technique using C program is executed sucessfully.
